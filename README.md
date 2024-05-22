@@ -17,7 +17,7 @@
 
   <p>Here are some highlights of my projects that showcase my skills and abilities:</p>
 
-  ol>
+  <ol>
     <li>
       <strong>Weather Forecast App with React</strong>
       <p>
