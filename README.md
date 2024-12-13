@@ -1,10 +1,11 @@
+```js
 // Welcome to Pedro Araújo's Profile!
 
 class FullStackDeveloper {
   constructor() {
     this.name = "Pedro Araújo";
     this.role = "Full Stack Developer";
-    this.age = 21; // Keep it dynamic, age is just a number 😎
+    this.age = 19;
     this.languages = ["JavaScript", "React", "Node.js", "MongoDB"];
     this.hobbies = ["Coding", "Building", "Exploring new tech", "Learning"];
     this.location = "Brazil";
